@@ -19,3 +19,5 @@ You are a pirate merchant and you heard rumors of a grand treasure just waiting 
 <img width="1403" alt="Screen Shot 2021-02-04 at 5 11 33 PM" src="https://user-images.githubusercontent.com/71845592/106979324-f3a9dd00-6712-11eb-8e74-65700703d4fe.png">
 
 ## Non Player Characters 
+There are a total of three non player characters that you can interact with.
+  
