@@ -33,3 +33,4 @@ There are a total of 9 levels, 3 Easy, 3 Medium, and 3 Hard islands. More loot a
 
 ## Enemies
 
+![giphy](https://user-images.githubusercontent.com/71845592/107060433-d107da80-678b-11eb-9c77-9a108da2c104.gif)
