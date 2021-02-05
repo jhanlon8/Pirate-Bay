@@ -22,4 +22,5 @@ You are a pirate merchant and you heard rumors of a grand treasure just waiting 
 There are a total of three non player characters that you can interact with.
   - Blacksmith, you are able to upgrade your sword a max of 3 times 
   - Doctor, you can upgrade your health 3 times and also heal yourself for a low cost
-  - Banker,
+  - Banker, where you can deposit and withdraw any amount of money
+  
