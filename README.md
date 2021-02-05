@@ -23,4 +23,6 @@ There are a total of three non player characters that you can interact with.
   - Blacksmith, you are able to upgrade your sword a max of 3 times 
   - Doctor, you can upgrade your health 3 times and also heal yourself for a low cost
   - Banker, where you can deposit and withdraw any amount of money
-  
+
+<img width="1401" alt="Screen Shot 2021-02-04 at 6 19 30 PM" src="https://user-images.githubusercontent.com/71845592/106982179-68cbe100-6718-11eb-8020-036724ebc39d.png">
+
