@@ -31,6 +31,8 @@ There are a total of 9 levels, 3 Easy, 3 Medium, and 3 Hard islands. More loot a
 
 <img width="1399" alt="Screen Shot 2021-02-04 at 6 56 28 PM" src="https://user-images.githubusercontent.com/71845592/107056861-a3b92d80-6787-11eb-8876-1633c5be2989.png">
 
-## Enemies
+## Enemies & Loot
+There are various enemies on each level, they drop a golden sack that is worth 5 coins.  There are more and have more hp on harder levels.
+Each island contains a chest of loot, Easy = 50, Medium = 75, and Hard = 125.  
 
 ![giphy](https://user-images.githubusercontent.com/71845592/107060433-d107da80-678b-11eb-9c77-9a108da2c104.gif)
