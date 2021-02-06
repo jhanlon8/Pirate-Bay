@@ -36,7 +36,7 @@ There are various enemies on each level, they drop a golden sack that is worth 5
 Each island contains a chest of loot, Easy = 50, Medium = 75, and Hard = 125.  
 
 
-![giphy1st](https://user-images.githubusercontent.com/71845592/107103876-28319d80-67d4-11eb-9462-220a490fa373.gif)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![giphy1st](https://user-images.githubusercontent.com/71845592/107103876-28319d80-67d4-11eb-9462-220a490fa373.gif)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     ![giphyyy](https://user-images.githubusercontent.com/71845592/107103885-2ec01500-67d4-11eb-8a92-320792155bcb.gif)
 
 
