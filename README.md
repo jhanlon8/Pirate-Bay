@@ -27,7 +27,7 @@ There are a total of three non player characters that you can interact with.
 <img width="1401" alt="Screen Shot 2021-02-04 at 6 19 30 PM" src="https://user-images.githubusercontent.com/71845592/106982179-68cbe100-6718-11eb-8020-036724ebc39d.png">
 
 ## Level Select
-There are a total of 9 levels, 3 Easy, 3 Medium, and 3 Hard islands. More loot and enemies are in higher levels!
+There are a total of 9 levels, 3 Easy, 3 Medium, and 3 Hard islands. More loot and enemies are in harder levels!
 
 <img width="1399" alt="Screen Shot 2021-02-04 at 6 56 28 PM" src="https://user-images.githubusercontent.com/71845592/107056861-a3b92d80-6787-11eb-8876-1633c5be2989.png">
 
